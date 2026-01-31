@@ -104,10 +104,9 @@ This setup allows users to:
 - View extracted information interactively
 
 ---
+## 🎥 Demo Video
+[Watch the demo video](https://youtu.be/-djmNwb-8tA)
 
-## 🎥 Demo Video
-## 🎥 Demo Video
-[![PaperMind Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/-djmNwb-8tA)
 ---
 
 ## 📌 Project Context
